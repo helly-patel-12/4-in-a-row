@@ -8,7 +8,5 @@ Two-Player Mode: Compete head-to-head with a friend or family member for endless
 Python-Powered Design: Efficient coding ensures seamless performance and responsive interactions.
 Real-Time Feedback: Visual indicators highlight winning combinations or invalid moves.
 Simple Controls: Intuitive input makes it easy for players of all ages to join the fun.
-Customizable Settings: Adjust grid dimensions or game rules for a personalized experience.
-AI Opponent (Optional): Test your skills against a computer player with adjustable difficulty levels.
 
 Whether you’re looking for a quick mental challenge or a competitive showdown, 4 in a Row delivers a timeless gaming experience powered by the versatility of Python.
